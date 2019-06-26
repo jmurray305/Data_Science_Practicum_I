@@ -6,3 +6,5 @@ The problem I tried to solve for my Data Science Practicum I was trying to predi
 
 
 Run - Data/GetData first to create a data file
+
+Modify gmaps.configure(api_key=os.environ["GOOGLE_API_KEY"]) and set your GOOGLE api key or save your api key to an environment variable.
